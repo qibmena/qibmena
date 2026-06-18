@@ -1,6 +1,6 @@
-<h1 align="left">
+<h1 align="left"> <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=500&color=7A0BD0&vCenter=true&width=500&height=70&lines=Hello!;I'm+Gabriela+Laureano" />
+
  </h1>
-<img src="code-typing-animate.svg" alt="ilustração de um computador" min-width="250px" max-width="3000px" width="390px" align="right">
 
 I am a developer focused on making processes simpler and more efficient through technology. Currently, I work as a trainee at Bosch Brazil, handling SAP systems, automation, and continuous improvements that support the team's daily routine.
 
